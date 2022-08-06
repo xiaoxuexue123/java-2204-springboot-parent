@@ -5,6 +5,7 @@ public class A {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
+        System.out.println("hello git hot-fix test");
         System.out.println("hello git  master test");
     }
 }
